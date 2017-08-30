@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AtmCompany</string>
+    <string name="company_details">About company</string>
+    <string name="service_details">Services</string>
+    <string name="consulting_text">Consulting</string>
+    <string name="processes_text">Processes</string>
+    <string name="monitoring_project_text">Monitoring and Project</string>
+    <string name="clients_details">Our Clients</string>
+    <string name="client1_text">Company of system development</string>
+    <string name="client2_text">Auditing company</string>
+    <string name="contact_details">Contact</string>
+    <string name="contact_email">Email: consulting@atm.com</string>
+    <string name="contact_phone">Phone: +55 11 2011-1111</string>
+    <string name="contact_cellphone">Cell Phone: +55 11 9 9011-1111</string>
+</resources>
